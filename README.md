@@ -1,5 +1,5 @@
 README - Temporizador de LEDs com Raspberry Pi Pico W
-Colaboradora : Isabel Rosa de Santana.
+Desenvolvedora: Isabel Rosa de Santana.
 
 Descrição do Projeto
 
